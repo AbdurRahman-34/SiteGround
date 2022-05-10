@@ -1,0 +1,21 @@
+/* Font Awsome  */
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+
+body{
+   background-color: #ededed;
+}
+.logo-area{
+   text-align: center;
+   padding: 20px 0px;
+}
+.logo-area img{
+   width: 200px;
+}
+h2{
+   font-family: 'Satisfy', cursive;
+   color: #293607;
+}
+.gallery-header {
+   display: none;
+ }
